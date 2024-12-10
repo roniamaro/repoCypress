@@ -7,7 +7,7 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
 
-    // baseUrl: '',
-    testIsolation: false
+    //baseUrl: '', // seta a config de url que será testada -> "cy.visit('/')"
+    testIsolation: false // não vai limpar o estado da tela após cada IT
   },
 });
