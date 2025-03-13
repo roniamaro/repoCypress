@@ -5,8 +5,8 @@
 __"Processo sistemático para avaliar um programa ou sistema afim de identificar e corrigir falhar, erros ou defeitos."__
 
 ##Objetivo:
-Garantir que o softaware funcione conforme o esperado.
-Atendendo aos requisitos e especificações definidos durante o desenvolvimento.
+__"Garantir que o softaware funcione conforme o esperado.
+Atendendo aos requisitos e especificações definidos durante o desenvolvimento."__
 
 ##Áreas
 Verificação de funcionalidades específicas;

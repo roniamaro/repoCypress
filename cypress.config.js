@@ -8,6 +8,6 @@ module.exports = defineConfig({
     },
 
     //baseUrl: '', // seta a config de url que será testada -> "cy.visit('/')"
-    testIsolation: false // não vai limpar o estado da tela após cada IT
+    //testIsolation: false // não vai limpar o estado da tela após cada IT
   },
 });
